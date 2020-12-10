@@ -5,3 +5,5 @@
 
 This amount of data is not really big, just 44Mo, but is big enough to be too complicated to be processed by hand.
 That is why we processed the data using basic and exisiting tools and algorithms in NLP.
+
+Also available [here](https://nbviewer.jupyter.org/github/TheoDemessance/Scientific-Articles-Massive-Corpora-Synthesis/blob/main/NLP%20Project%201.ipynb) if you have some issues with the local notebook.
